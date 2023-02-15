@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PuroSurPFM
 - 👀 I’m interested in ... Boxing
-- 🌱 I’m currently learning ... Web Server    
+- 🌱 I’m currently learning ... Web Server, GitHub    
 - 💞️ I’m looking to collaborate on ... Content Creation
 - 📫 How to reach me ... purosurcentralbxo@gmail.com
 <!---
